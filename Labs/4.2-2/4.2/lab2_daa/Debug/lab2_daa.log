@@ -1,0 +1,4 @@
+﻿cl : командная строка  warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+  LibPyramid.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  lab2_daa.vcxproj -> F:\.Уник\3 курс\ОКГ\Labs\4.2-2\4.2\Debug\Lab04.exe

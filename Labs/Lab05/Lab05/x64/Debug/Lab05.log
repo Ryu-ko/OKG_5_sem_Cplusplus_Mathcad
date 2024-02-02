@@ -1,0 +1,7 @@
+﻿  ChildView.cpp
+  LibSurface.cpp
+F:\.Уник\3 курс\ОКГ\Labs\Lab05\Lab05\LibSurface.cpp(254,12): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+F:\.Уник\3 курс\ОКГ\Labs\Lab05\Lab05\LibSurface.cpp(255,12): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+F:\.Уник\3 курс\ОКГ\Labs\Lab05\Lab05\LibSurface.cpp(174): warning C4715: CPlot3D::GetNumberRegion: значение возвращается не при всех путях выполнения
+  Lab05.vcxproj -> F:\.Уник\3 курс\ОКГ\Labs\Lab05\x64\Debug\Lab05.exe

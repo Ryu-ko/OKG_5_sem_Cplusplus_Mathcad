@@ -1,0 +1,24 @@
+﻿  CMatrix.cpp
+  main.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  Создание кода...
+F:\.Уник\3 курс\ОКГ\Labs\Lab07\Lab07\LibSurface.h(151,20): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "main.cpp")
+  
+F:\.Уник\3 курс\ОКГ\Labs\Lab07\Lab07\LibSurface.h(154,21): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "main.cpp")
+  
+F:\.Уник\3 курс\ОКГ\Labs\Lab07\Lab07\LibSurface.h(216,20): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "main.cpp")
+  
+F:\.Уник\3 курс\ОКГ\Labs\Lab07\Lab07\LibSurface.h(219,21): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "main.cpp")
+  
+F:\.Уник\3 курс\ОКГ\Labs\Lab07\Lab07\LibSurface.h(245,20): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "main.cpp")
+  
+F:\.Уник\3 курс\ОКГ\Labs\Lab07\Lab07\LibSurface.h(248,21): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "main.cpp")
+  
+F:\.Уник\3 курс\ОКГ\Labs\Lab07\Lab07\LibSurface.h(199): warning C4715: CPlot3D::GetNumberRegion: значение возвращается не при всех путях выполнения
+  Lab07.vcxproj -> F:\.Уник\3 курс\ОКГ\Labs\Lab07\Debug\Lab07.exe
